@@ -1,0 +1,10 @@
+[requires]
+glm/cci.20230113
+glfw/3.4
+glad/0.1.36
+imgui/cci.20230105+1.89.2.docking
+[generators]
+CMakeDeps
+CMakeToolchain
+[layout]
+cmake_layout
